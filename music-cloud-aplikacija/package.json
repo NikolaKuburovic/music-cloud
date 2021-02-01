@@ -1,0 +1,45 @@
+{
+  "name": "music-cloud-aplikacija",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/core": "^11.0.0",
+    "@emotion/react": "^11.1.4",
+    "@emotion/styled": "^11.0.0",
+    "@material-ui/core": "^5.0.0-alpha.22",
+    "@material-ui/icons": "^3.0.2",
+    "@material-ui/lab": "^4.0.0-alpha.57",
+    "@material-ui/styles": "^5.0.0-alpha.22",
+    "apollo-boost": "^0.1.28",
+    "applause-button": "^3.4.0",
+    "axios": "^0.18.0",
+    "date-fns": "^1.30.1",
+    "fg-loadcss": "^3.1.0",
+    "graphql": "^14.1.1",
+    "mui-audio-player": "^1.0.1",
+    "react": "^16.14.0",
+    "react-apollo": "^2.4.1",
+    "react-clap-button": "^1.2.12",
+    "react-dom": "^16.14.0",
+    "react-icons": "^4.1.0",
+    "react-player": "^1.9.3",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.5",
+    "typeface-roboto": "^1.1.13"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
